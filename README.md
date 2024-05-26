@@ -291,6 +291,8 @@ Creating additional users and attempting to log into client-1 with one of the us
 - Just as an example, lets say you (or an actual user) tries to log in too many times with an incorrect password. You can go back to your DC-1 VM, find the user -> Properties -> Account tab - and if the user has locked him or herself out of their account, you can Unlock it as an admin.
 - By right clicking a user's name you can reset the user's account password or disable an account.
 - With this last setp we finished our tutorial on Active Directory! Hope everything went according to plan, and if it did, GOOD JOB!
+
+- PS: Make sure you delete your Resource Groups and VMs once done with the lab so it doesnt drain your Azure Subscription resources!!!!
 </p>
 <br />
 
